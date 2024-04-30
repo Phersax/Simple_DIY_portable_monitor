@@ -18,8 +18,8 @@ You can print components in full or print them subdivided if you have a smaller 
 
 
 ## Mounting
-<img src="medias/assembly1.jpg" alt="Example">
-<img src="medias/assembly2.jpg" alt="Example">
+<img src="medias/assembly1.jpg" alt="Example1">
+<img src="medias/assembly2.jpg" alt="Example2">
 
 ## Final Result.
 
