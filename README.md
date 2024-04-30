@@ -1,4 +1,4 @@
-## Simple Do-it-yourself portable monitor.
+# Simple DIY portable monitor.
 
 ## Project Description.
 
