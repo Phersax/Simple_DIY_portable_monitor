@@ -14,15 +14,16 @@ You can print components in full or print them subdivided if you have a smaller 
 - 15.6-inch display (model LTN140AT07) salvaged from an old laptop, but there are many other compatible models
 - STL file for 3D printing of the monitor components.
 
-##SOLIDWORS
+## SOLIDWORS
 
 
 ## Mounting
-
+<img src="medias/assembly1.jpg" alt="Example">
+<img src="medias/assembly2.jpg" alt="Example">
 
 ## Final Result.
 
 
-##Thanksgiving to the organ donor.
+## Thanksgiving to the organ donor.
 
 Translated with DeepL.com (free version)
