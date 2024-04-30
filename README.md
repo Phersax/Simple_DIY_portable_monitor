@@ -14,6 +14,9 @@ You can print components in full or print them subdivided if you have a smaller 
 - 15.6-inch display (model LTN140AT07) salvaged from an old laptop, but there are many other compatible models
 - STL file for 3D printing of the monitor components.
 
+![Test Image](medias/controller_board_display.jpg)
+*VSDISPLAY 8541634866*
+
 ## SOLIDWORS
 
 
