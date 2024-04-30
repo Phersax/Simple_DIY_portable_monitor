@@ -1,6 +1,6 @@
-# Simple DIY portable monitor.
+# Simple DIY portable monitor
 
-## Project Description.
+## Project Description
 
 This project is about making a portable monitor using 3D printable STL files and the display controller board of the VSDISPLAY brand, model 8541634866. The 15.6-inch display (model 8541634866) was salvaged from an old laptop.
 
@@ -24,8 +24,8 @@ You can print components in full or print them subdivided if you have a smaller 
 <img src="medias/assembly1.jpg" alt="Alt Text" width="700" height="700">
 <img src="medias/assembly2.jpg" alt="Alt Text" width="700" height="700">
 
-## Final Result.
+## Final Result
 <img src="medias/result.gif" alt="Alt Text" width="700" height="700">
 
-## Thanksgiving to the organ donor.
+## Thanksgiving to the organ donor
 <img src="medias/dead_pc.jpg" alt="Alt Text" width="700" height="700">
