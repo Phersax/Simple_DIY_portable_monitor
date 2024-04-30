@@ -22,7 +22,7 @@ You can print components in full or print them subdivided if you have a smaller 
 
 ## Mounting
 <img src="medias/assembly1.jpg" alt="Alt Text" width="700" height="700">
-<img src="medias/assembly1.jpg" alt="Alt Text" width="700" height="700">
+<img src="medias/assembly2.jpg" alt="Alt Text" width="700" height="700">
 
 ## Final Result.
 <img src="medias/result.gif" alt="Alt Text" width="700" height="700">
